@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wije51
+- 👋 Hi, I’m @w*je51
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning IT
 - - ⚡ Fun fact: Play codm
