@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @w*je51
+- 👋 Hi, I’m Janith Charuka
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning IT
-- - ⚡ Fun fact: Play codm
+-- ⚡ Fun fact: Play codm
+  - 
 
 <!---
 wije51/wije51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
