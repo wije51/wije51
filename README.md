@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Janith Charuka
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning IT
--- ⚡ Fun fact: Play codm
-  - 
+# 👋 Hi, I'm Janith Charuka
 
-<!---
-wije51/wije51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Undergraduate Software Developer | Engineering Tech Enthusiast
+
+- 👀 I’m interested in **Full-Stack Development, AI, and Engineering Innovation**.
+- 🌱 I’m currently specialized in **C#, Web Technologies, and Software Architecture** through my DIT at IMBS Strategy Center.
+- 💻 Check out my live portfolio: **[https://janith-dev-protocol.vercel.app/]**
+- 📫 How to reach me: **[Only whatsapp 0721450572]****
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:**  C#, HTML5, CSS3,JavaScript (ES6+),Sql,Php,Python
+- **Frameworks/Tools:** Git,
