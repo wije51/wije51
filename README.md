@@ -11,4 +11,7 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:**  C#, HTML5, CSS3,JavaScript (ES6+),Sql,Php,Python
-- **Frameworks/Tools:** Git,
+- **Frameworks/Tools:** Git,GitHub, Vercel, VS Code
+- **Focus:** Building scalable, high-performance web applications with sleek UI.
+---
+*“Bridging the gap between engineering precision and digital logic.”*
